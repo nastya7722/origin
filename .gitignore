@@ -1,0 +1,8 @@
+# игнор tmp
+tmp/
+# игнор файлов с расширением old
+*_old
+# игнор файлов с расширением backup
+*_backup
+*Thumbs.db
+*DS_Store
