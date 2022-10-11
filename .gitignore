@@ -1,2 +1,5 @@
 # игнор tmp
-tmp/
+/tmp/
+# игнорировать 
+DS_Store
+Thumbs.db.db
